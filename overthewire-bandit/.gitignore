@@ -1,0 +1,7 @@
+# keep real passwords/keys out of the repo
+passwords.txt
+*.private
+*.key
+*_key
+id_rsa*
+.env
